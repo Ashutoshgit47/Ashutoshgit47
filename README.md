@@ -17,14 +17,14 @@
 </picture></br>
 
 
-- 🔐 Cybersecurity Enthusiast | Defender of the Digital Realm
+##  🔐 Cybersecurity Enthusiast | Defender of the Digital Realm
 
 Passionate about ethical hacking, threat hunting, and securing systems in an ever-evolving digital world. Constantly exploring malware analysis, penetration testing, and cyber defense strategies. Lifelong learner with a keen eye for vulnerabilities and a drive to make the internet a safer place—one firewall at a time.
 
 
 ## 🧩 About Me
 
-- 🎯 Focus: Cybersecurity, Web Devloper
+- 🎯 Focus: Cybersecurity, Web Devlopment
 - 🔍 Exploring: Threat Intelligence, Web Exploitation, AI Security
 - 🛠️ Tech Stack: JavaScript, Python, Java, PHP,C++
 - 🧠 Favorite Quote:  
