@@ -70,8 +70,16 @@ Passionate about ethical hacking, threat hunting, and securing systems in an eve
 
 <h1 align="center">📊 GitHub Stats</h1>
 
+<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Ashutoshgit47&show_icons=true&theme=radical&count_private=true" />
+
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutoshgit47&bg_color=1f1f1f&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true" />
 
+<br/><br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutoshgit47&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
+</div>
