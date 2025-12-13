@@ -38,16 +38,32 @@ Passionate about ethical hacking, threat hunting, and securing systems in an eve
 ## 💻 My Tech Toolbox
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=C++&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-218b21?style=for-the-badge&logo=nmap&logoColor=white" />
+  <!-- OS & Languages -->
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-1f6feb?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-14532d?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+  <!-- DevOps & Scripting -->
+  <img src="https://img.shields.io/badge/Docker-0ea5e9?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-dc2626?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-15803d?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-1e40af?style=for-the-badge&logo=powershell&logoColor=white" />
+
+  <!-- Web -->
+  <img src="https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-2563eb?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <!-- Cybersecurity Tools -->
+  <img src="https://img.shields.io/badge/Kali_Linux-1f2937?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-166534?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-0f172a?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-f97316?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-020617?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hashcat-020617?style=for-the-badge&logo=hackaday&logoColor=white" />
 </p>
 
 ---
