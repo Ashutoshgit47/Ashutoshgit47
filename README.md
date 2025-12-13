@@ -29,7 +29,7 @@ Passionate about ethical hacking, threat hunting, and securing systems in an eve
 
 - 🎯 Focus: Cybersecurity, Web Devlopment
 - 🔍 Exploring: Threat Intelligence, Web Exploitation, AI Security
-- 🛠️ Tech Stack: JavaScript, Python, Java, PHP,C++
+- 🛠️ Tech Stack: Html,Css,JavaScript, Python, Java, PHP,C++
 - 🧠 Favorite Quote:  
   > “Security is not a product, but a process.” – Bruce Schneier
 
