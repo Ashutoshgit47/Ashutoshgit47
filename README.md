@@ -14,7 +14,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashutoshgit47/Ashutoshgit47/output/github-contribution-grid-snake-dark.svg">
