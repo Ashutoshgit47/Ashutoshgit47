@@ -118,10 +118,6 @@ Dark-themed dashboard with grades, ranks, insights, editable marks, and comparis
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutoshgit47&bg_color=0d1117&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ashutoshgit47&theme=dark&hide_border=true" />
-</p>
-
 ---
 
 ⭐ *Thanks for visiting my profile!*
