@@ -101,13 +101,6 @@ Detects suspicious activities and potential threats from logs.
 
 ---
 
-### 📊 Student Performance Dashboard  
-**HTML · CSS · JavaScript**  
-Dark-themed dashboard with grades, ranks, insights, editable marks, and comparisons.  
-🔗 https://github.com/Ashutoshgit47/Student-Performance-Dashboard  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
