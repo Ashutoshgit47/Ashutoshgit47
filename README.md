@@ -94,13 +94,6 @@ Encrypts messages and hides them inside images for secure covert communication.
 
 ---
 
-### 🛡️ SentinelLogs  
-**Python · Log Analysis · Cybersecurity**  
-Detects suspicious activities and potential threats from logs.  
-🔗 https://github.com/Ashutoshgit47/SentinelLogs  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
