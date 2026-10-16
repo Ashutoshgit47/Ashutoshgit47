@@ -1,9 +1,14 @@
-<h1 align="center">🛡️ Cybersecurity Enthusiast</h1>
-<h1 align="center">💻 Developer</h1>
-
 <h1 align="center">
-Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashutosh Gautam
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave">, I'm Ashutosh Gautam
 </h1>
+
+<p align="center">
+  <strong>🛡️ Cybersecurity Enthusiast</strong>
+  &nbsp; • &nbsp;
+  <strong>💻 Developer</strong>
+</p>
+
+---
 
 ## 🔐 Cybersecurity Enthusiast | Defender of the Digital Realm
 
@@ -63,16 +68,20 @@ Constantly exploring malware analysis, penetration testing, and cyber defense st
 
 ### ⚙️ ASR-Configurator
 
-**Python · Windows Security · Automation**  
-Automates Windows Attack Surface Reduction (ASR) rules to harden systems.  
+**Python · Windows Security · Automation**
+
+Automates Windows Attack Surface Reduction (ASR) rules to harden systems.
+
 🔗 https://github.com/Ashutoshgit47/ASR-Configurator
 
 ---
 
 ### 🕵️ StegCrypt
 
-**Python · Cryptography · Steganography**  
-Encrypts messages and hides them inside images for secure covert communication.  
+**Python · Cryptography · Steganography**
+
+Encrypts messages and hides them inside images for secure covert communication.
+
 🔗 https://github.com/Ashutoshgit47/stegcrypt
 
 ---
