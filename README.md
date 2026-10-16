@@ -1,23 +1,9 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" /></a>
-
 <h1 align="center">🛡️ Cybersecurity Enthusiast</h1>
 <h1 align="center">💻 Developer</h1>
 
 <h1 align="center">
 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashutosh Gautam
 </h1>
-
----
-
-## 🐍 Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashutoshgit47/Ashutoshgit47/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashutoshgit47/Ashutoshgit47/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Ashutoshgit47/Ashutoshgit47/output/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 ## 🔐 Cybersecurity Enthusiast | Defender of the Digital Realm
 
@@ -75,17 +61,19 @@ Constantly exploring malware analysis, penetration testing, and cyber defense st
 
 ## 🚀 Featured Projects
 
-### ⚙️ ASR-Configurator  
+### ⚙️ ASR-Configurator
+
 **Python · Windows Security · Automation**  
 Automates Windows Attack Surface Reduction (ASR) rules to harden systems.  
-🔗 https://github.com/Ashutoshgit47/ASR-Configurator  
+🔗 https://github.com/Ashutoshgit47/ASR-Configurator
 
 ---
 
-### 🕵️ StegCrypt  
+### 🕵️ StegCrypt
+
 **Python · Cryptography · Steganography**  
 Encrypts messages and hides them inside images for secure covert communication.  
-🔗 https://github.com/Ashutoshgit47/stegcrypt  
+🔗 https://github.com/Ashutoshgit47/stegcrypt
 
 ---
 
