@@ -7,11 +7,6 @@
 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashutosh Gautam
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Ashutoshgit47?style=social" />
-  <img src="https://img.shields.io/github/stars/Ashutoshgit47?style=social" />
-</p>
-
 ---
 
 ## 🐍 Snake
@@ -35,9 +30,9 @@ Constantly exploring malware analysis, penetration testing, and cyber defense st
 
 ## 🧩 About Me
 
-- 🎯 Focus: Cybersecurity, Web Development  
-- 🔍 Exploring: Threat Intelligence, Web Exploitation, AI Security  
-- 🛠️ Tech Stack: HTML, CSS, JavaScript, Python, Java, PHP, C++  
+- 🎯 Focus: Cybersecurity, Generative AI, Agentic AI
+- 🔍 Exploring: Threat Intelligence, Web Exploitation, AI Security, Agentic Workflows
+- 🛠️ Tech Stack: Python, Linux, Generative AI, Agentic AI, LLMs, RAG, Prompt Engineering, AI Automation
 
 ---
 
@@ -48,16 +43,16 @@ Constantly exploring malware analysis, penetration testing, and cyber defense st
 <!-- OS & Languages -->
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-1f6feb?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ef4444?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-4f46e5?style=for-the-badge&logo=php&logoColor=white" />
 
-<!-- Web -->
-<img src="https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-2563eb?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-14532d?style=for-the-badge&logo=mongodb&logoColor=white" />
+<!-- Generative AI & Agentic Workflows -->
+<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic_AI-6D28D9?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge&logo=robotframework&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-9333EA?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-4C1D95?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-F59E0B?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Automation-0891B2?style=for-the-badge&logo=zapier&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic_Workflows-DB2777?style=for-the-badge&logo=openai&logoColor=white" />
 
 <!-- DevOps & Scripting -->
 <img src="https://img.shields.io/badge/Docker-0ea5e9?style=for-the-badge&logo=docker&logoColor=white" />
@@ -91,18 +86,6 @@ Automates Windows Attack Surface Reduction (ASR) rules to harden systems.
 **Python · Cryptography · Steganography**  
 Encrypts messages and hides them inside images for secure covert communication.  
 🔗 https://github.com/Ashutoshgit47/stegcrypt  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashutoshgit47&show_icons=true&theme=radical&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutoshgit47&bg_color=0d1117&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true" />
-</p>
 
 ---
 
